@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brand Strategy. Brand Design. UI/UX Design.]]></title>
+        <description><![CDATA[Brand Strategy. Brand Design. UI/UX Design.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Feb 2016 10:06:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[first page]]></title>
+            <description><![CDATA[<article><h1>first page</h1><p>Hey JudeSo this was the first project and we wanted to get it right</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abaddd509bb8f01f64872255b3d2e1e6950878e4.jpg"></article>]]></description>
+            <link>undefinedfirst-page/index.html</link>
+            <guid isPermaLink="false">1f1aa113-1269-4161-b587-254d0836f7e4</guid>
+            <pubDate>Mon, 08 Feb 2016 10:06:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
