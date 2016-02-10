@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Brand Strategy. Brand Design. UI/UX Design.]]></title>
         <description><![CDATA[Brand Strategy. Brand Design. UI/UX Design.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/exit-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 10:06:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 11:20:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/exit-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[first page]]></title>
-            <description><![CDATA[<article><h1>first page</h1><p>Hey JudeSo this was the first project and we wanted to get it right</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abaddd509bb8f01f64872255b3d2e1e6950878e4.jpg"></article>]]></description>
-            <link>undefinedfirst-page/index.html</link>
-            <guid isPermaLink="false">1f1aa113-1269-4161-b587-254d0836f7e4</guid>
-            <pubDate>Mon, 08 Feb 2016 10:06:31 GMT</pubDate>
+            <title><![CDATA[It's a Political Earthquake as Donald Trump, Bernie Sanders Win Decisively in New Hampshire]]></title>
+            <description><![CDATA[<article><h1>It's a Political Earthquake as Donald Trump, Bernie Sanders Win Decisively in New Hampshire</h1><p>Is trump the guy for us?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6968cf0d87a798b80eb71e23392fa874ad06bbf7.jpg"></article>]]></description>
+            <link>http://www.newsweek.com/trump-sanders-win-nh-424792</link>
+            <guid isPermaLink="false">b681d980-2505-4d1c-a3a4-cc0b0f9151db</guid>
+            <pubDate>Wed, 10 Feb 2016 11:12:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
