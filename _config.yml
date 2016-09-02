@@ -1,20 +1,4 @@
-name: Exit Design
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.07591
-title: Brand Strategy. Brand Design. UI/UX Design.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.841661611571908
   saturation: 0.7072170861065388
   rhythmicContrast: 0.1625956215430051
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Exit Design
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Brand Strategy. Brand Design. UI/UX Design.
+description: Energizing Brands. Jumpstarting Businesses.
 purpose: []
